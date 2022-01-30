@@ -1,11 +1,2 @@
-
-#ifndef SKYLINE_CLIENT_P3D_HPP
-#define SKYLINE_CLIENT_P3D_HPP
-
-
-class P3D {
-
-};
-
-
-#endif //SKYLINE_CLIENT_P3D_HPP
+#pragma once
+//not ready for now...........

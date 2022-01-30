@@ -1,11 +1,2 @@
-
-#ifndef SKYLINE_CLIENT_USERINTERFACE_HPP
-#define SKYLINE_CLIENT_USERINTERFACE_HPP
-
-
-class UserInterface {
-
-};
-
-
-#endif //SKYLINE_CLIENT_USERINTERFACE_HPP
+#pragma once
+//not ready for now...........
