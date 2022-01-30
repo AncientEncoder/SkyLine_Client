@@ -1,0 +1,11 @@
+
+#ifndef SKYLINE_CLIENT_XPLANE11_HPP
+#define SKYLINE_CLIENT_XPLANE11_HPP
+
+
+class Xplane11 {
+
+};
+
+
+#endif //SKYLINE_CLIENT_XPLANE11_HPP

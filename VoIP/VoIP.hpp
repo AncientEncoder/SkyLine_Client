@@ -1,0 +1,11 @@
+
+#ifndef SKYLINE_CLIENT_VOIP_HPP
+#define SKYLINE_CLIENT_VOIP_HPP
+
+
+class VoIP {
+
+};
+
+
+#endif //SKYLINE_CLIENT_VOIP_HPP
